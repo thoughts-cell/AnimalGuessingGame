@@ -1,0 +1,5 @@
+1  can it  make meow sound? 
+0  cat 
+3  can it fly ? 
+2  hawk 
+4  groundhog 
